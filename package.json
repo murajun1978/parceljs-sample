@@ -1,0 +1,19 @@
+{
+  "name": "parceljs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.0.2"
+  },
+  "scripts": {
+    "start": "parcel index.html -p 4000"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
