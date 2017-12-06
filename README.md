@@ -1,4 +1,4 @@
-# Presets sample
+# Parcel sample
 
 ## Usage
 ```
